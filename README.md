@@ -25,7 +25,7 @@
 
 name: USER
 value: 账号 密码 学校代码
-（用空格或回车分开，学校代码 可以前往 https://api.xixunyun.com/login/schoolmap 查询 如渝水职院：1743）
+（用空格或回车分开，学校代码 可以前往百度查询 如派斯学院：13591）
 
 name: SIGN_GPS
 value: 你的地理位置坐标经纬度 如105.931252,29.367364
